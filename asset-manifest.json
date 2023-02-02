@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/city-travel/static/css/main.9fc7ddc3.css",
+    "main.js": "/city-travel/static/js/main.ef67fcd7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/city-travel/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/city-travel/index.html",
+    "main.9fc7ddc3.css.map": "/city-travel/static/css/main.9fc7ddc3.css.map",
+    "main.ef67fcd7.js.map": "/city-travel/static/js/main.ef67fcd7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/city-travel/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fc7ddc3.css",
+    "static/js/main.ef67fcd7.js"
+  ]
+}
